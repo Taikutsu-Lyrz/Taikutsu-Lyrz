@@ -1,4 +1,9 @@
-<h1 align="center">Hey! Taikutsu here, What's Up?</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yo,+Taikutsu+Here;A+Basic+Dude+;So+What's+Up+Mate!&center=true&size=30&color=008080">
+  </a>
+</h1>
+
 
 ###
 
