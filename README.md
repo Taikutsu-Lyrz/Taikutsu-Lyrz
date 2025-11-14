@@ -5,36 +5,61 @@
 </h1>
 
 
+### <h1> About me </h1>
+Hi, **I’m Taikutsu Lyrz** a Computer Science student who codes, designs, and builds things that actually work.
+I focus on JavaScript, React, Python, and Java, and I love combining clean UI/UX with solid engineering.
+Currently improving my JS, TypeScript, APIs, and security, while working on web and mobile projects.
+
+---
 
 
-###
-  <h1 align="center">Technologies and Languages I use</h1><div align="center">
-  <img src="https://skillicons.dev/icons?i=webstorm" height="60" alt="webstorm logo"  />
+
+
+### <h1 align="left">Technologies and Tools I Use</h1>
+
+<div align="left">
+
+  <!-- === IDEs === -->
+  <h3>🛠️ IDEs</h3>
+  <img src="https://skillicons.dev/icons?i=webstorm" height="60" alt="webstorm" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  /> 
+  <img src="https://skillicons.dev/icons?i=rider" height="60" alt="rider" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
-    
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode" />
+
+
   <br><br>
-    
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <!-- === Technologies === -->
+  <h3>⚙️ Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react" />
+
+  <br><br>
+
+  <!-- === Languages === -->
+  <h3>💻 Languages</h3>
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="py logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" />
 
 </div>
+<br>
+
+
+---
+
 
 ###
-
-<div align="center">
+<div align="left">
   <a href="">
  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 </a>
