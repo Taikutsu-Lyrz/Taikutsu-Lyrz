@@ -5,10 +5,20 @@
 </h1>
 
 
+
+
 ###
-
-
-  <h1 align="center">Technologies I use</h1><div align="center">
+  <h1 align="center">Technologies and Languages I use</h1><div align="center">
+  <img src="https://skillicons.dev/icons?i=webstorm" height="60" alt="webstorm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  /> 
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
+    
+  <br><br>
+    
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css"  />
