@@ -47,6 +47,17 @@ Currently improving my JS, TypeScript, APIs, and security, while working on web 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=illustrator" height="60" alt="illustrator" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" />
+
+ <br><br>
+  <!-- === Design === -->
+  <h3>Design</h3>
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=photoshop" height="60" alt="photoshop" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" />
