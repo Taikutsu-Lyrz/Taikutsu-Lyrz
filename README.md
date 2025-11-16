@@ -33,11 +33,13 @@ Currently improving my JS, TypeScript, APIs, and security, while working on web 
   <br><br>
   <!-- === Technologies === -->
   <h3>⚙️ Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="netlify" />
 
   <br><br>
 
@@ -47,7 +49,7 @@ Currently improving my JS, TypeScript, APIs, and security, while working on web 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=illustrator" height="60" alt="illustrator" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" />
 
@@ -56,11 +58,11 @@ Currently improving my JS, TypeScript, APIs, and security, while working on web 
   <h3>Design</h3>
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=xd" height="60" alt="xd" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=photoshop" height="60" alt="photoshop" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" />
+  <img src="https://skillicons.dev/icons?i=illustrator" height="60" alt="illustrator" />
 
 </div>
 <br>
