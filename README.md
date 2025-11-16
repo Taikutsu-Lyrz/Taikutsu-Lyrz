@@ -54,6 +54,7 @@ Currently improving my JS, TypeScript, APIs, and security, while working on web 
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python" />
 
  <br><br>
+ 
   <!-- === Design === -->
   <h3>Design</h3>
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma" />
