@@ -6,7 +6,7 @@
 
 
 ### <h1> About me </h1>
-Hi, **I’m Taikutsu Lyrz** a Computer Science student who codes, designs, and builds things that actually work.
+Yo, **I’m Taikutsu Lyrz** a Computer Science student who codes, designs, and builds things that actually work.
 I focus on JavaScript, React, Python, and Java, and I love combining clean UI/UX with solid engineering.
 Currently improving my JS, TypeScript, APIs, and security, while working on web and mobile projects.
 
