@@ -70,6 +70,8 @@ Currently improving my JS, TypeScript, APIs, and security, while working on web 
 
 
 ### <h1> My Socials </h1>
+<br>
+
 <div align="left">
   <a href="https://www.instagram.com/taikutsu_lyrz"><img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"         alt="instagram logo"/></a>
   <img width="12" /> 
