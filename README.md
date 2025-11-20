@@ -6,7 +6,7 @@
 
 
 ### <h1> About me </h1>
-Yo, **I’m Taikutsu Lyrz** a Computer Science student who codes, designs, and builds things that actually work.
+Yo, **I’m Taikutsu Lyrz (Salim Noor)** a Computer Science student who codes, designs, and builds things that actually work.
 I focus on JavaScript, React, Python, and Java, and I love combining clean UI/UX with solid engineering.
 Currently improving my JS, TypeScript, APIs, and security, while working on web and mobile projects.
 
@@ -77,8 +77,6 @@ Currently improving my JS, TypeScript, APIs, and security, while working on web 
   
   <a href="https://x.com/taikutsu_lyrz?s=11"><img src="https://img.shields.io/static/v1?message=twitter&logo=twitter&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"                    alt="twitter logo"/></a>
   <img width="12" /> 
-  
-
 </div>
 
 
