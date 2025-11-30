@@ -77,8 +77,9 @@ Currently improving my JS, TypeScript, APIs, and security, while working on web 
   <img width="12" /> 
   <br>
   
-  <a href="https://x.com/taikutsu_lyrz?s=11"><img src="https://img.shields.io/static/v1?message=twitter&logo=twitter&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"                    alt="twitter logo"/></a>
-  <img width="12" /> 
+<a href="https://x.com/taikutsu_lyrz?s=11">
+  <img src="https://img.shields.io/static/v1?message=X.com&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge"
+       height="35" alt="X logo"/> </a>
 </div>
 
 
