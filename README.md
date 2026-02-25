@@ -80,6 +80,8 @@ Currently improving my JS, TypeScript, APIs, and security, while working on web 
 <a href="https://x.com/taikutsu_lyrz?s=11">
   <img src="https://img.shields.io/static/v1?message=X.com&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge"
        height="35" alt="X logo"/> </a>
+       <br>
+        <img src="https://komarev.com/ghpvc/?username=Taikutsu-Lyrz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </div>
 
 
