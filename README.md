@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yo,+Taikutsu+Here;A+Basic+Dude+;So+What's+Up+Mate!&center=true&size=30&color=008080">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=799&center=true&width=700&height=100&lines=Yo%2C+Taikust+here!;A+Basic+dude;So%2C+what's+up+mate!" alt="Typing SVG" /></a>
   </a>
 </h1>
 
